@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="enable">Enable</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="message">Enable in settings</string>
 </resources>
